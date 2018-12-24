@@ -1,0 +1,10 @@
+body {
+  text-align: center;
+  background: url(https://images.pexels.com/photos/139306/pexels-photo-139306.jpeg?cs=srgb&dl=brown-hardwood-lumber-139306.jpg&fm=jpg);
+  background-repeat: repeat;
+  background-size: cover;
+}
+
+table {
+  text-align: left;
+}

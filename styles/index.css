@@ -1,0 +1,65 @@
+h1 {
+  font-family: 'Major Mono Display', monospace;
+}
+
+li{
+
+}
+
+body{
+  background: url(https://images.pexels.com/photos/139306/pexels-photo-139306.jpeg?cs=srgb&dl=brown-hardwood-lumber-139306.jpg&fm=jpg);
+  background-repeat: repeat;
+  background-size: cover;
+
+}
+
+th{
+  font-family: 'Roboto Condensed', sans-serif;
+}
+
+#FavGames {
+  color: blue;
+}
+
+.FavoriteGame {
+  color: red;
+}
+
+#FavGame3 {
+  color: yellow;
+}
+
+#yourself {
+  font-family: cursive;
+  font-size: 2.0em;
+}
+
+#Code {
+  font-size: 2.0em /* 2.0em would double it, 3.0em would tripple it */;
+  font-weight: bold;
+}
+
+* {
+  color: white;
+}
+
+#example {
+  line-height: 2;
+}
+
+#foot {
+  font-family: fantasy;
+  font-size: 10px
+}
+
+#exampleh1 {
+  text-align: center;
+}
+
+#dogsCats {
+  text-decoration: line-through;
+}
+
+p {
+  font-family: 'B612', sans-serif;
+}
